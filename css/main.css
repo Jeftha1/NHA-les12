@@ -1,0 +1,119 @@
+#head {
+	background-color:  darkred;
+	height:  120px;
+}
+
+#foot {
+	background-color: indianred;
+	height:  80px;
+}
+
+p {
+	color:  whitesmoke;
+	font-weight:  bold;
+}
+
+h1 {
+	color:  whitesmoke;
+}
+
+#aap {
+	background-color: sandybrown;
+}
+
+#woord_aap {
+	background-color: rgb(139,0,0);
+}
+
+#afb_aap {
+	background-color: rosybrown;
+}
+
+#boot {
+	background-color: dodgerblue;
+}
+
+#woord_boot {
+	background-color:  rgb(199,21,133);
+}
+
+#afb_boot {
+	background-color: skyblue;
+}
+
+#cadeau {
+	background-color: lightyellow;
+}
+
+#woord_cadeau {
+	background-color: #008b8b;
+}
+
+#afb_cadeau {
+	background-color: yellow;
+}
+
+#doos {
+	background-color: dimgray;
+}
+
+#woord_doos {
+	background-color: #008080;
+}
+
+#afb_doos {
+	background-color: dimgray;
+}
+
+#ezel {
+	background-color: slategray;
+}
+
+#woord_ezel {
+	background-color: rgb(95,158,160);
+}
+
+#afb_ezel {
+	background-color: darkslategray;
+}
+
+#fiets {
+	background-color: blueviolet;
+}
+
+#woord_fiets {
+	background-color: #ff4500;
+}
+
+#afb_fiets {
+	background-color: cadetblue;
+}
+
+#geluk {
+	background-color: forestgreen;
+}
+
+#woord_geluk {
+	background-color: rgb(100,149,237);
+}
+
+#afb_geluk {
+	background-color: lawngreen;
+}
+
+#huis {
+	background-color: saddlebrown;
+}
+
+#woord_huis {
+	background-color: #000000;
+}
+
+#afb_huis {
+	background-color: blanchedalmond;
+}
+
+.afbeelding {
+	height:  300px;
+	width:  300px;
+}
